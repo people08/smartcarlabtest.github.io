@@ -30,8 +30,9 @@ theme:
 nav:
 # - 其他新增一级栏目:  
   - 主页:
-    - 简介: index.md 
-
+    - 简介: intro/index.md 
+    - 人员组成: staff/index.md
+    - 技术文档: 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 extra:
