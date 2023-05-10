@@ -1,0 +1,44 @@
+site_name: 北印智能车实验室
+theme: 
+  name: material
+  icon:
+    logo: material/library
+  palette:
+    - scheme: slate # 夜间模式
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+    - scheme: default # 日间模式
+      primary: indigo # 上方的
+      accent: orange # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: 切换至夜间模式 # 鼠标悬浮提示
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  language: zh
+
+
+nav:
+# - 其他新增一级栏目:  
+  - 主页:
+    - 简介: index.md 
+
+extra_css:
+  - mkdocs/css/no-footer.css # 不使用底部的翻页
+extra:
+  homepage: http://smartcarlabtest.github.io
+  social: # icons
+    - icon: fontawesome/brands/github
+      link: https://github.com/SmartCarLabTest
+      name: GitHub | SmartCarLabTest
+## [bottom-left corner]
+copyright: Copyright &copy; 2023 北印智能车实验室 # 左下角的版权声明
