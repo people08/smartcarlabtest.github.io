@@ -29,7 +29,7 @@ theme:
 
 nav: 
   - 简介: 
-    - WEBSITE/index.md 
+    - index.md 
   - 人员组成: 
     - staff/index.md
   - 技术文档: 
