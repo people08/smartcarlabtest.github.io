@@ -33,6 +33,8 @@ nav:
     - 简介: intro/index.md 
     - 人员组成: staff/index.md
     - 技术文档: 
+      - BIGC-LaBlog:
+        - Ubuntu2204 工作台搭建全流程: BIGC-LaBlog/Ubuntu-WorkSpace/Ubuntu2204-WorkSpace.md
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 extra:
