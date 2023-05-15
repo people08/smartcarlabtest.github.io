@@ -34,8 +34,7 @@ nav:
     - staff/index.md
   - 技术文档: 
     - csblog/index.md
-    - BIGC-LaBlog:
-      - Ubuntu2204 工作台搭建全流程: csblog/BIGC-LaBlog/Ubuntu-WorkSpace/Ubuntu2204-WorkSpace.md
+      - Ubuntu2204 工作台搭建全流程: csblog/Ubuntu-WorkSpace/Ubuntu2204-WorkSpace.md
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 extra:
